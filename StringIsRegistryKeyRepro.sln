@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "StringIsRegistryKeyRepro", ".", "{229CB9A9-218B-4C1A-96CC-3DC1E775B571}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_47392"
+		Debug.AspNetCompiler.PhysicalPath = "..\StringIsRegistryKeyRepro\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_47392\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_47392"
+		Release.AspNetCompiler.PhysicalPath = "..\StringIsRegistryKeyRepro\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_47392\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "47392"
+		SlnRelativePath = "..\StringIsRegistryKeyRepro\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{229CB9A9-218B-4C1A-96CC-3DC1E775B571}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{229CB9A9-218B-4C1A-96CC-3DC1E775B571}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{229CB9A9-218B-4C1A-96CC-3DC1E775B571}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{229CB9A9-218B-4C1A-96CC-3DC1E775B571}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60FBFA42-7DEA-4EB1-9235-8536BC3A79AF}
+	EndGlobalSection
+EndGlobal
